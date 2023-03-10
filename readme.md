@@ -37,6 +37,10 @@ Deleting a patient from database
 ![Screenshot of removal of a patient](client/src/components/images/Screenshot%20patient%20sucessfully%20deleted%20.png)
 
 
+Split Terminal/Installed Front end dependencies
+![Testing URL Codes](client/src/components/images/Screenshot%20(testing%20url%20codes).png)
+
+
 
 1. Split terminal
 
@@ -85,8 +89,6 @@ Clear process of adding all of patient info to database
 Multiple patients info updated
 ![Screenshot of updated information of patient](client/src/components/images/Screenshot%20(5).png)
 
-Split Terminal/Installed Front end dependencies
-![Testing URL Codes](client/src/components/images/Screenshot%20(testing%20url%20codes).png)
 
 About Cape Health Webpage.
 ![About Cape Health](client/src/components/images/Screenshot%20(9).png)
