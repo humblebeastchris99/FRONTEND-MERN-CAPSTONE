@@ -22,8 +22,6 @@ command: npm install mongoose cors express nodemon
 
 
 
-Creating of collection & Database
-![Alt text](client/src/components/images/Screenshot%20step%20uno.png)
 Creation of Client and Server Folder
 ![Screenshot of Client & Server updated ](client/src/components/images/Screenshot%20step%20dos.png)
 
@@ -81,6 +79,10 @@ install axios:
 then npm start on command line
 
 Screenshots posted below output after Front End Dependencies
+
+
+Creating of collection & Database
+![Alt text](client/src/components/images/Screenshot%20step%20uno.png)
 
 Split Terminal/Installed Front end dependencies
 ![Testing URL Codes](client/src/components/images/Screenshot%20(testing%20url%20codes).png)
