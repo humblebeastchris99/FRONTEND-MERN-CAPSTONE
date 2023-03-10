@@ -32,16 +32,6 @@ Installed backend dependencies
 Multipe Patients added to Database on Thunderclient
 ![Patients added on Thunder Client](client/src/components/images/Screenshot%20(3).png)
 
-Add info such as: Name, Date of Birth, Insurance Provider, Patient Identification and Health history.
-![Click Here to add information on new patient](client/src/components/images/Screenshot%20(6).png)
-
-Clear process of adding all of patient info to database
-![Screenshot of Upating Patient Information](client/src/components/images/Screenshot%20(4).png)
-
-
-Multiple patients info updated
-![Screenshot of updated information of patient](client/src/components/images/Screenshot%20(5).png)
-
 
 Deleting a patient from database
 ![Screenshot of removal of a patient](client/src/components/images/Screenshot%20patient%20sucessfully%20deleted%20.png)
@@ -83,6 +73,17 @@ Screenshots posted below output after Front End Dependencies
 
 Creating of collection & Database
 ![Alt text](client/src/components/images/Screenshot%20step%20uno.png)
+
+
+Add info such as: Name, Date of Birth, Insurance Provider, Patient Identification and Health history.
+![Click Here to add information on new patient](client/src/components/images/Screenshot%20(6).png)
+
+Clear process of adding all of patient info to database
+![Screenshot of Upating Patient Information](client/src/components/images/Screenshot%20(4).png)
+
+
+Multiple patients info updated
+![Screenshot of updated information of patient](client/src/components/images/Screenshot%20(5).png)
 
 Split Terminal/Installed Front end dependencies
 ![Testing URL Codes](client/src/components/images/Screenshot%20(testing%20url%20codes).png)
