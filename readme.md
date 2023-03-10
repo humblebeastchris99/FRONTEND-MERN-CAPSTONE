@@ -25,28 +25,28 @@ command: npm install mongoose cors express nodemon
 Creating of collection & Database
 ![Alt text](client/src/components/images/Screenshot%20step%20uno.png)
 Creation of Client and Server Folder
-![Screenshot of Client & Server updated ](src/images/Screenshot%20step%20dos.png)
+![Screenshot of Client & Server updated ](client/src/components/images/Screenshot%20step%20dos.png)
 
 Node.js command installed/ pattient added to database
 Installed backend dependencies
-![Screenshot of Install backend Dependencies](src/images/Screenshot%20(1).png)
+![Screenshot of Install backend Dependencies](client/src/components/images/Screenshot%20(1).png)
 
 Multipe Patients added to Database on Thunderclient
-![Patients added on Thunder Client](src/images/Screenshot%20(3).png)
+![Patients added on Thunder Client](client/src/components/images/Screenshot%20(3).png)
 
 Add info such as: Name, Date of Birth, Insurance Provider, Patient Identification and Health history.
-![Click Here to add information on new patient](src/images/Screenshot%20(6).png)
+![Click Here to add information on new patient](client/src/components/images/Screenshot%20(6).png)
 
 Clear process of adding all of patient info to database
-![Screenshot of Upating Patient Information](src/images/Screenshot%20(4).png)
+![Screenshot of Upating Patient Information](client/src/components/images/Screenshot%20(4).png)
 
 
 Multiple patients info updated
-![Screenshot of updated information of patient](src/images/Screenshot%20(5).png)
+![Screenshot of updated information of patient](client/src/components/images/Screenshot%20(5).png)
 
 
 Deleting a patient from database
-![Screenshot of removal of a patient](src/images/Screenshot%20patient%20sucessfully%20deleted%20.png)
+![Screenshot of removal of a patient](client/src/components/images/Screenshot%20patient%20sucessfully%20deleted%20.png)
 
 
 
@@ -83,10 +83,10 @@ then npm start on command line
 Screenshots posted below output after Front End Dependencies
 
 Split Terminal/Installed Front end dependencies
-![Testing URL Codes](src/images/Screenshot%20(testing%20url%20codes).png)
+![Testing URL Codes](client/src/components/images/Screenshot%20(testing%20url%20codes).png)
 
 About Cape Health Webpage.
-![About Cape Health](src/images/Screenshot%20(9).png)
+![About Cape Health](client/src/components/images/Screenshot%20(9).png)
 
 Output of Webpage
-![Webpage](client/src/images/output%20of%20webpage.png)
+![Webpage](client/src/components/images/output%20of%20webpage.png)
