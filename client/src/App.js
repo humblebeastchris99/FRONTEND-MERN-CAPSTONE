@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import Header from "./components/Header";
+import { Route, Routes } from "react-router-dom";
+import Home from "./components/Home";
+import AddPatient from "./components/AddPatient";
+import Patients from "./components/patient/Patients";
+import About from "./components/About";
+import PatientDetail from "./components/patient/PatientDetail";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <React.Fragment>
+      <header>
+        <Header />
       </header>
-    </div>
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />} exact />
+          <Route path="/add" element={<AddPatient />} exact />
+          <Route path="/patient" element={<Patients/>} exact />
+          <Route path="/about" element={<About />} exact />
+          <Route path="/patient/:id" element={<PatientDetail  />} exact />
+        </Routes>
+      </main>
+    </React.Fragment>
   );
 }
 
