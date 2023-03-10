@@ -23,8 +23,7 @@ command: npm install mongoose cors express nodemon
 
 
 Creating of collection & Database
-![Screenshot of Database/Mongo Db](src/images/Screenshot%20step%20uno.png)
-
+![Alt text](client/src/components/images/Screenshot%20step%20uno.png)
 Creation of Client and Server Folder
 ![Screenshot of Client & Server updated ](src/images/Screenshot%20step%20dos.png)
 
