@@ -1,0 +1,34 @@
+
+h1,h2,p{
+    
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: underline;
+    text-emphasis: bold;
+}
+
+
+
+img{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width:70%;
+    height:800px ;
+
+    
+}
+
+body{
+background-color: lightblue;
+background-blend-mode: multiply;
+
+}
+
+p{
+    text-align: center;
+}
+
