@@ -1,4 +1,4 @@
-import hospital from "../images/hospital_staff.jpg"
+import hospital from "./images/hospital_staff.jpg"
   
 import React from "react";
 const About = () => {

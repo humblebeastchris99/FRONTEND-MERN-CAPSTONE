@@ -1,5 +1,5 @@
 import React from "react";
-import hospital_building from "../images/hospital_building.jpg" 
+import hospital_building from "./images/hospital_building.jpg" 
 import "./Home.css"
 const Home = () => {
   return (
